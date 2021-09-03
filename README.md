@@ -1,5 +1,5 @@
 # supermall
-![Image text](https://gitee.com/coderfh/supermall/blob/master/img-folder/homeTop.png)
+![Image text](<https://gitee.com/coderfh/supermall/blob/master/img-folder/homeTop.png>)
 ![Image text](https://gitee.com/coderfh/supermall/blob/master/img-folder/homebuttom.png)
 ![Image text](https://gitee.com/coderfh/supermall/blob/master/img-folder/detailTop.png)
 ![Image text](https://gitee.com/coderfh/supermall/blob/master/img-folder/detailbuttom.png)
