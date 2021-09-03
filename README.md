@@ -1,5 +1,5 @@
 # supermall
-
+![Image text](https://github.com/2414291079/supermall/blob/main/src/assets/img/img-folder/homeTop.png)
 ## Project setup
 ```
 npm install
