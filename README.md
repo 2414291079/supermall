@@ -1,9 +1,9 @@
 # supermall
-![Image text](https://raw.githubusercontent.com/2414291079/supermall/main/src/assets/img/img-folder/homeTop.png)
-![Image text](https://raw.githubusercontent.com/2414291079/supermall/main/src/assets/img/img-folder/homebuttom.png)
-![Image text](https://raw.githubusercontent.com/2414291079/supermall/main/src/assets/img/img-folder/detailTop.png)
-![Image text](https://github.com/2414291079/supermall/blob/main/src/assets/img/img-folder/detailbuttom.png)
-![Image text](https://raw.githubusercontent.com/2414291079/supermall/main/src/assets/img/img-folder/cart.png)
+![Image text](https://gitee.com/coderfh/supermall/blob/master/img-folder/homeTop.png)
+![Image text](https://gitee.com/coderfh/supermall/blob/master/img-folder/homebuttom.png)
+![Image text](https://gitee.com/coderfh/supermall/blob/master/img-folder/detailTop.png)
+![Image text](https://gitee.com/coderfh/supermall/blob/master/img-folder/detailbuttom.png)
+![Image text](https://gitee.com/coderfh/supermall/blob/master/img-folder/cart.png)
 ## Project setup
 ```
 npm install
