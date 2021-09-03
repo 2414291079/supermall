@@ -1,5 +1,9 @@
 # supermall
 ![Image text](https://raw.githubusercontent.com/2414291079/supermall/main/src/assets/img/img-folder/homeTop.png)
+![Image text](https://raw.githubusercontent.com/2414291079/supermall/main/src/assets/img/img-folder/homebutton.png)
+![Image text](https://raw.githubusercontent.com/2414291079/supermall/main/src/assets/img/img-folder/detailTop.png)
+![Image text](https://raw.githubusercontent.com/2414291079/supermall/main/src/assets/img/img-folder/detailbutton.png)
+![Image text](https://raw.githubusercontent.com/2414291079/supermall/main/src/assets/img/img-folder/cart.png)
 ## Project setup
 ```
 npm install
