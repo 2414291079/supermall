@@ -42,7 +42,7 @@ import Scroll from "components/common/scroll/Scroll";
 import GoodsList from "components/content/goodslist/GoodsList";
 import ToTop from "components/content/totop/ToTop";
 
-import { getHomeMultidata, getHomeGoods } from "network/home";
+import { getHomeMultidata, getHomeGoods,} from "network/home";
 import { debounce } from "common/utils";
 export default {
   name: "Home",
@@ -88,13 +88,12 @@ export default {
     this.$refs.scroll.scrollTo(0, this.saveY, 0);
   },
   deactivated() {
-    console.log("1111");
     this.saveY = this.$refs.scroll.scroll.y;
   },
   mounted() {
     const refresh = debounce(this.$refs.scroll.refresh, 100);
     this.$bus.$on("itemImageLoad", () => {
-      refresh();
+      refresh;
     });
   },
   methods: {

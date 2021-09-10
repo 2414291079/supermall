@@ -34,7 +34,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
     .tabControl{
         z-index: 5;
         display:flex;

@@ -3,7 +3,7 @@
     <nav-bar class="navbar">
       <div slot="center">购物车({{length}})</div>
     </nav-bar>
-    <cart-list class="cart-list"></cart-list>
+    <cart-list></cart-list>
     <cart-bottom-bar></cart-bottom-bar>
   </div>
 </template>

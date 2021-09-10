@@ -46,7 +46,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
   .goods-item {
     padding-bottom: 40px;
@@ -61,7 +61,7 @@ export default {
   }
 
   .goods-info {
-    font-size: 12px;
+    font-size: 0.8rem;
     position: absolute;
     bottom: 5px;
     left: 0;
@@ -89,8 +89,8 @@ export default {
   .goods-info .collect::before {
     content: '';
     position: absolute;
-    left: -12px;
-    top: 0.3rem;
+    left: -16px;
+    top: 0;
     width: 14px;
     height: 14px;
     background: url("~assets/img/common/collect.svg") 0 0/14px 14px;

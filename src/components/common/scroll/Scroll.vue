@@ -52,14 +52,19 @@ export default {
       this.scroll.scrollTo(x, y, time);
     },
     finishPullUp(){
+      // console.log("上拉刷新了");
       this.scroll.finishPullUp()
     },
     refresh(){
       this.scroll.refresh()
+      // console.log("刷新了");
     }
   },
 };
 </script>
 
 <style scoped>
+.wrapper{
+  height: 100%;
+}
 </style>

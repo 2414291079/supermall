@@ -29,16 +29,22 @@ export default {
 
 <style scoped>
   .cart-list{
-    height: calc(100% - 49px - 44px- 40px);
-    position: relative;
+    /* height: calc(100% - 49px - 44px- 40px); */
+    /* position: relative; */
     width: 100%;
-    padding-top:44px;
-    padding-bottom: 89px;
+    /* padding-top:44px;
+    padding-bottom: 89px; */
+
+  }
+  li::before{
+    contain: "5555";
   }
   .content{
+    position: absolute;
+    top:44px;
+    bottom:89px;
     background: #fff;
-    /* width: 100%; */
-    height: 100%;
+    width: 100%;
     overflow: hidden;
     /* position: absolute;
     left:0px;
