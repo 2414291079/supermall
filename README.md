@@ -1,5 +1,7 @@
 # supermall
 
+![img](https://gitee.com/coderfh/supermall/blob/master/img-folder/homeTop.png)
+
 ## Project setup
 ```
 npm install
