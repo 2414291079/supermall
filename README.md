@@ -1,10 +1,10 @@
 # supermall
-![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/homeTop.png)
-![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/homebuttom.png)
-![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/detailTop.png)
-![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/detailbuttom.png)
-![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/category.png)
-![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/cart.png)
+![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/homeTop.jpg)
+![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/homebuttom.jpg)
+![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/detailTop.jpg)
+![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/detailbuttom.jpg)
+![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/category.jpg)
+![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/cart.jpg)
 ## Project setup
 ```
 npm install
