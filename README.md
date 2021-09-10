@@ -1,6 +1,5 @@
 # supermall
-
-![img](https://gitee.com/coderfh/supermall/blob/master/img-folder/homeTop.png)
+![蘑菇街](<https://gitee.com/coderfh/supermall/blob/master/img-folder/homeTop.png>)
 
 ## Project setup
 ```
