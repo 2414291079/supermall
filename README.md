@@ -3,7 +3,7 @@
 ![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/homebuttom.png)
 ![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/detailTop.png)
 ![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/detailbuttom.png)
-![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/car.PNG)
+![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/category.png)
 ![img](https://gitee.com/coderfh/supermall/raw/master/img-folder/cart.png)
 ## Project setup
 ```
